@@ -1,4 +1,5 @@
-# movie-eda-project
+# Microsoft Sci-fi Project - A&J Analytica
+This project aims to analyze the sci-fi movie genre through data analysis to ultimately understand successes within the genre and provide insight as to what type of films should be created to capture the niche. 
 
 
 
