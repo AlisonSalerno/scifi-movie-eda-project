@@ -6,7 +6,7 @@ This project aims to analyze the sci-fi movie genre through data analysis to ult
 
 Contents of this project repository:
 
-1. Alison_Jude_Movie_EDA FIXED.ipynb - visualizations & EDA
+1. AJAnalyticaFinal.ipynb - visualizations & EDA
 2. The Movie DB API Request.ipynb - TMDB API request code & script
 3. MDB.csv - initial data from API requests
 4. MDBv2.csv - finalized/cleaned data from API requests
