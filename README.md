@@ -1,7 +1,7 @@
 # Microsoft Sci-fi Project - A&J Analytica
 This project aims to analyze the sci-fi movie genre through data analysis to ultimately understand successes within the genre and provide insight as to what type of films should be created to capture the niche. 
 
-Contents of this project repository:
+## Contents of this project repository:
 
 1. AJAnalyticaFinal - Final.ipynb - main project notebook visualizations & EDA
 2. The Movie DB API Request & OMDB API request.ipynb - TMDB & OMDB API request code & script
