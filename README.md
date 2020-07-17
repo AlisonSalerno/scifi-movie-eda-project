@@ -10,21 +10,24 @@ The 10 sci-fi sub-genres that were analyzed were: Time Travel, Supernatural, Sup
 
 Our final dataset ended up being a sample size of around 300 films — after cleaning the various datasets that were acquired and merging on title, we only wanted to analyze films for which we had all the data points (no NaN values).
 
-## EDA 
+## EDA - Visualizations
 
-![](/images/pop.png)
 
-![](/images/rev.png)
 
-![](/images/revdist.png)
+<img src="/images/pop.png" width="550">
 
-![](/images/revstack.png)
+<img src="/images/rev.png" width="550">
+
+<img src="/images/revdist.png" width="550">
+
+<img src="/images/revstack.png" width="550">
 
 
 
 ## Conclusion
 
-As portrayed in our data visualizations and analysis, our EDA concluded that the winning combination for success within the sci-fi movie market is a  ####Supernatural, PG-13 film!
+As portrayed in our data visualizations and analysis, our EDA concluded that the winning combination for success within the sci-fi movie market is a.... 
+#### Supernatural, PG-13 film!
 
 However, it must be noted that Marvel films were about 60% of the average total revenue for the supernatural sub-genre. And therefore, what we must explore next is excluding all films associated with Marvel and see how our data analysis might change.
 
