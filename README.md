@@ -1,5 +1,10 @@
-# Microsoft Sci-fi Project - A&J Analytica
+# Sci-fi Movie Project - A&J Analytica
 
+#### The Scenario
+
+CompanyX sees all the other movie companies creating original video content, and they want to get in on the fun. CompanyX decides that their breakout original content will be a sci-fi movie. They really want to capture the niche and create a success with their first original feature. CompanyX has enlisted your team for consultation.
+
+#### Goal
 This project aims to analyze the sci-fi movie genre through data analysis to ultimately understand successes within the genre and provide insight as to what type of films should be created to capture the niche.
 
 ## The Dataset
