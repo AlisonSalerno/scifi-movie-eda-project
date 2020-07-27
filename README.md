@@ -38,7 +38,7 @@ As portrayed in our data visualizations and analysis, our EDA concluded that the
 
 However, it must be noted that Marvel films were about 60% of the average total revenue for the supernatural sub-genre. And therefore, what we must explore next is excluding all films associated with Marvel and see how our data analysis might change.
 
-## Contents of this project repository:
+## Contents of this project repository
 
 1. AJAnalyticaFinal - Final.ipynb - final project notebook visualizations & EDA
 2. workingnbs folder - includes TMDB & OMDB API request code & script, Box Office Mojo webscraping scripts
